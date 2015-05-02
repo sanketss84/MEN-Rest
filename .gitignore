@@ -1,0 +1,6 @@
+# We do not need the node log file
+npm-debug.log
+
+# We do not need to upload node modules
+# npm init will get them again for us as server.js specifies the depenedencies
+node_modules/*

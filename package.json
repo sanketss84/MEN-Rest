@@ -1,0 +1,24 @@
+{
+  "name": "MEN-Rest",
+  "version": "1.0.0",
+  "description": "Simple Node REST App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sanketss84/MEN-Rest.git"
+  },
+  "author": "Sanket Sonavane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanketss84/MEN-Rest/issues"
+  },
+  "homepage": "https://github.com/sanketss84/MEN-Rest",
+  "dependencies": {
+    "body-parser": "^1.12.3",
+    "express": "^4.12.3",
+    "mongoose": "^4.0.2"
+  }
+}
